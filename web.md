@@ -1,5 +1,4 @@
 # 联系方式
-（HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
 
 - 手机：17381864192
 - Email：ruilin4063@163.com 
@@ -58,11 +57,15 @@
 
 
 
-# 技能清单
+## 技能清单
 
-- 前端框架：Bootstrap/AngularJS/HTML5/ionic/jQuery/EasyUI
+- 前端框架：Bootstrap/AngularJS/HTML5/ionic/jQuery/EasyUI/TypeScript/ES6/微信小程序
 - 版本管理：Svn/Git/
 
+## 阅读书单
+
+
+《JavaScript Dom 编程艺术》、《Learning TypeScript》、《JavaScript 编程精解2》、《锋利的jQuery2》
 
 ---
 
