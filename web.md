@@ -66,6 +66,10 @@
 
 《JavaScript Dom 编程艺术》、《Learning TypeScript》、《JavaScript 编程精解2》、《锋利的jQuery2》
 
+## 学习计划
+
+通过项目实战，并结合相关书籍，继续深入理解前端开发相关思想的同时，学习node.js拓展和丰富自己的技能树。
+
 ---
 
 # 致谢
