@@ -53,7 +53,7 @@
 
 ## 阅读书单
 
-《JavaScript Dom 编程艺术》、《Learning TypeScript》、《JavaScript 编程精解2》、《锋利的jQuery2》
+《JavaScript Dom 编程艺术》、《Learning TypeScript》、《JavaScript 编程精解2》、《锋利的jQuery2》、《JavaScript 高级程序设计》
 
 ## 学习计划
   
